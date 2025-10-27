@@ -1,0 +1,405 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 79999,
+    "status": "Available",
+    "rating": 4.7,
+    "sku": "P001"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 69999,
+    "status": "Available",
+    "rating": 4.6,
+    "sku": "P002"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M2",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 114999,
+    "status": "Out of Stock",
+    "rating": 4.9,
+    "sku": "P003"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM4",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 24999,
+    "status": "Available",
+    "rating": 4.8,
+    "sku": "P004"
+  },
+  {
+    "id": 5,
+    "name": "Bose QuietComfort 45",
+    "category": "Electronics",
+    "brand": "Bose",
+    "price": 22999,
+    "status": "Available",
+    "rating": 4.6,
+    "sku": "P005"
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 13",
+    "category": "Electronics",
+    "brand": "Dell",
+    "price": 99999,
+    "status": "Coming Soon",
+    "rating": 4.5,
+    "sku": "P006"
+  },
+  {
+    "id": 7,
+    "name": "OnePlus 11",
+    "category": "Electronics",
+    "brand": "OnePlus",
+    "price": 54999,
+    "status": "Available",
+    "rating": 4.4,
+    "sku": "P007"
+  },
+  {
+    "id": 8,
+    "name": "Google Pixel 7",
+    "category": "Electronics",
+    "brand": "Google",
+    "price": 59999,
+    "status": "Available",
+    "rating": 4.3,
+    "sku": "P008"
+  },
+  {
+    "id": 9,
+    "name": "HP Envy 15",
+    "category": "Electronics",
+    "brand": "HP",
+    "price": 87999,
+    "status": "Available",
+    "rating": 4.2,
+    "sku": "P009"
+  },
+  {
+    "id": 10,
+    "name": "Logitech MX Master 3",
+    "category": "Electronics",
+    "brand": "Logitech",
+    "price": 9999,
+    "status": "Available",
+    "rating": 4.7,
+    "sku": "P010"
+  },
+
+  {
+    "id": 11,
+    "name": "Casual T-Shirt",
+    "category": "Clothing",
+    "brand": "H&M",
+    "price": 799,
+    "status": "Available",
+    "rating": 4.0,
+    "sku": "P011"
+  },
+  {
+    "id": 12,
+    "name": "Formal Shirt",
+    "category": "Clothing",
+    "brand": "Zara",
+    "price": 1999,
+    "status": "Available",
+    "rating": 4.1,
+    "sku": "P012"
+  },
+  {
+    "id": 13,
+    "name": "Denim Jeans",
+    "category": "Clothing",
+    "brand": "Levi's",
+    "price": 2999,
+    "status": "Out of Stock",
+    "rating": 4.3,
+    "sku": "P013"
+  },
+  {
+    "id": 14,
+    "name": "Running Shoes",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 4999,
+    "status": "Available",
+    "rating": 4.5,
+    "sku": "P014"
+  },
+  {
+    "id": 15,
+    "name": "Sneakers",
+    "category": "Clothing",
+    "brand": "Adidas",
+    "price": 4599,
+    "status": "Available",
+    "rating": 4.4,
+    "sku": "P015"
+  },
+  {
+    "id": 16,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "AllSaints",
+    "price": 11999,
+    "status": "Coming Soon",
+    "rating": 4.2,
+    "sku": "P016"
+  },
+  {
+    "id": 17,
+    "name": "Summer Dress",
+    "category": "Clothing",
+    "brand": "Mango",
+    "price": 2599,
+    "status": "Available",
+    "rating": 4.1,
+    "sku": "P017"
+  },
+  {
+    "id": 18,
+    "name": "Sports Shorts",
+    "category": "Clothing",
+    "brand": "Puma",
+    "price": 899,
+    "status": "Available",
+    "rating": 3.9,
+    "sku": "P018"
+  },
+  {
+    "id": 19,
+    "name": "Socks (Pack)",
+    "category": "Clothing",
+    "brand": "Uniqlo",
+    "price": 399,
+    "status": "Available",
+    "rating": 4.0,
+    "sku": "P019"
+  },
+  {
+    "id": 20,
+    "name": "Wool Sweater",
+    "category": "Clothing",
+    "brand": "GAP",
+    "price": 3499,
+    "status": "Out of Stock",
+    "rating": 4.2,
+    "sku": "P020"
+  },
+
+  {
+    "id": 21,
+    "name": "Wooden Chair",
+    "category": "Furniture",
+    "brand": "Ikea",
+    "price": 2999,
+    "status": "Available",
+    "rating": 4.1,
+    "sku": "P021"
+  },
+  {
+    "id": 22,
+    "name": "Office Table",
+    "category": "Furniture",
+    "brand": "Durian",
+    "price": 6999,
+    "status": "Available",
+    "rating": 4.0,
+    "sku": "P022"
+  },
+  {
+    "id": 23,
+    "name": "Sofa 3-Seater",
+    "category": "Furniture",
+    "brand": "Pepperfry",
+    "price": 24999,
+    "status": "Coming Soon",
+    "rating": 4.3,
+    "sku": "P023"
+  },
+  {
+    "id": 24,
+    "name": "Dining Table",
+    "category": "Furniture",
+    "brand": "HomeTown",
+    "price": 15999,
+    "status": "Available",
+    "rating": 4.2,
+    "sku": "P024"
+  },
+  {
+    "id": 25,
+    "name": "King Bed Frame",
+    "category": "Furniture",
+    "brand": "Ikea",
+    "price": 19999,
+    "status": "Out of Stock",
+    "rating": 4.0,
+    "sku": "P025"
+  },
+  {
+    "id": 26,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "brand": "Wakefit",
+    "price": 4999,
+    "status": "Available",
+    "rating": 4.1,
+    "sku": "P026"
+  },
+  {
+    "id": 27,
+    "name": "Study Lamp",
+    "category": "Furniture",
+    "brand": "Philips",
+    "price": 1199,
+    "status": "Available",
+    "rating": 4.4,
+    "sku": "P027"
+  },
+  {
+    "id": 28,
+    "name": "Recliner Chair",
+    "category": "Furniture",
+    "brand": "Nilkamal",
+    "price": 8999,
+    "status": "Available",
+    "rating": 4.0,
+    "sku": "P028"
+  },
+  {
+    "id": 29,
+    "name": "TV Unit",
+    "category": "Furniture",
+    "brand": "Ikea",
+    "price": 8999,
+    "status": "Available",
+    "rating": 4.1,
+    "sku": "P029"
+  },
+  {
+    "id": 30,
+    "name": "Bean Bag",
+    "category": "Furniture",
+    "brand": "Home Centre",
+    "price": 2999,
+    "status": "Available",
+    "rating": 3.8,
+    "sku": "P030"
+  },
+
+  {
+    "id": 31,
+    "name": "Kitchen Mixer",
+    "category": "Electronics",
+    "brand": "Bajaj",
+    "price": 3999,
+    "status": "Available",
+    "rating": 4.0,
+    "sku": "P031"
+  },
+  {
+    "id": 32,
+    "name": "Air Purifier",
+    "category": "Electronics",
+    "brand": "Xiaomi",
+    "price": 9999,
+    "status": "Available",
+    "rating": 4.3,
+    "sku": "P032"
+  },
+  {
+    "id": 33,
+    "name": "Microwave Oven",
+    "category": "Electronics",
+    "brand": "LG",
+    "price": 8999,
+    "status": "Out of Stock",
+    "rating": 4.1,
+    "sku": "P033"
+  },
+  {
+    "id": 34,
+    "name": "Electric Kettle",
+    "category": "Electronics",
+    "brand": "Prestige",
+    "price": 1499,
+    "status": "Available",
+    "rating": 4.2,
+    "sku": "P034"
+  },
+  {
+    "id": 35,
+    "name": "Vacuum Cleaner",
+    "category": "Electronics",
+    "brand": "Dyson",
+    "price": 34999,
+    "status": "Coming Soon",
+    "rating": 4.6,
+    "sku": "P035"
+  },
+  {
+    "id": 36,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "brand": "Fossil",
+    "price": 15999,
+    "status": "Available",
+    "rating": 4.0,
+    "sku": "P036"
+  },
+  {
+    "id": 37,
+    "name": "Fitness Band",
+    "category": "Electronics",
+    "brand": "Fitbit",
+    "price": 7999,
+    "status": "Available",
+    "rating": 4.1,
+    "sku": "P037"
+  },
+  {
+    "id": 38,
+    "name": "Camera DSLR",
+    "category": "Electronics",
+    "brand": "Canon",
+    "price": 45999,
+    "status": "Available",
+    "rating": 4.5,
+    "sku": "P038"
+  },
+  {
+    "id": 39,
+    "name": "Portable Speaker",
+    "category": "Electronics",
+    "brand": "JBL",
+    "price": 4999,
+    "status": "Available",
+    "rating": 4.2,
+    "sku": "P039"
+  },
+  {
+    "id": 40,
+    "name": "LED Monitor 24\"",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 12999,
+    "status": "Available",
+    "rating": 4.3,
+    "sku": "P040"
+  }
+]
